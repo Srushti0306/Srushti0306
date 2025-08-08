@@ -1,4 +1,11 @@
-## Hi, I'm **Srushti** — a multilingual full-stack developer with hands-on experience in Python, Node.js, React, and modern AI frameworks.Passionate about building scalable web apps, working with vector databases, and exploring the future of LLMs. ## Hi there 👋
+## About Me
+Hi, I'm **Srushti** a multilingual full-stack developer with hands-on experience in Python, Node.js, React, and modern AI frameworks.Passionate about building scalable web apps, working with vector databases, and exploring the future of LLMs.
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/srushti-kashid-99baa5267)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/srushti_36)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@srushti0306)
 
 ## 🧠 Skills & Technologies
 
