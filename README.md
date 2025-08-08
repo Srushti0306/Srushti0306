@@ -19,4 +19,4 @@
 - English • Hindi • Marathi • Japanese
 
 
-![Srushti's GitHub Dashboard](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Srushti's GitHub Dashboard](https://github-readme-stats.vercel.app/api?username=Srushti0306&show_icons=true&bg_color=00000000)
