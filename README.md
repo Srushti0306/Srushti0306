@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm **Srushti** — a multilingual full-stack developer with hands-on experience in Python, Node.js, React, and modern AI frameworks.Passionate about building scalable web apps, working with vector databases, and exploring the future of LLMs. ## Hi there 👋
 
-<!--
-**Srushti0306/Srushti0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Skills & Technologies
 
-Here are some ideas to get you started:
+### 💻 Programming Languages
+- **Experienced:** Python • JavaScript • C++ • Node.js • NestJS  
+- **Familiar:** C • Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Web Development
+- HTML • CSS • JavaScript • React JS  
+- **Frameworks:** Flask • Express.js • LangChain • LangSmith
+
+### 🗄️ Databases
+- **Relational:** MSSQL • MySQL • PostgreSQL  
+- **NoSQL:** MongoDB  
+- **Vector DBs:** Pinecone • FAISS
+
+### 🌍 Spoken Languages
+- English • Hindi • Marathi • Japanese
+
+
+![Srushti's GitHub Dashboard](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
