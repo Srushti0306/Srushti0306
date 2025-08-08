@@ -22,6 +22,7 @@ Hi, I'm **Srushti** a multilingual full-stack developer with hands-on experience
 - **NoSQL:** MongoDB  
 - **Vector DBs:** Pinecone • FAISS
 
+## GiiHub Stats
 ![Srushti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srushti0306&show_icons=true&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
